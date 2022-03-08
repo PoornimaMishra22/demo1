@@ -1,0 +1,4 @@
+this is my file.
+
+git config --global user.name 'PoornimaMishra22'
+git config --global user.email 'poornimamishra2203@gmail.com'
